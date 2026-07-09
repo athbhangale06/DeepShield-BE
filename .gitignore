@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Temporary uploads
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# AI model files
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
